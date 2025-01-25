@@ -9,6 +9,9 @@ function min(...nums: number[]): number {
   return min;
 }
 
+// for min: min > nums[i]
+// for max: min < nums[i]
+
 min(8, 3, 2, 5, 10, 7);
 min(3, 4, 5, 8, 9, 3, 2);
 min(10, 11);

@@ -1,4 +1,6 @@
-function gridGame(grid: number[][]): number {}
+function gridGame(grid: number[][]): number {
+  return 0;
+}
 
 gridGame([
   [2, 5, 4],
